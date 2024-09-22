@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.3.1](https://github.com/CubicrootXYZ/gotesplit/compare/v0.4.0-rc1...v0.3.1) - 2024-09-22
+- update to go 1.23 and bump dependencies by @CubicrootXYZ in https://github.com/CubicrootXYZ/gotesplit/pull/1
+
 ## [v0.3.1](https://github.com/Songmu/gotesplit/compare/v0.3.0...v0.3.1) - 2023-09-27
 - Add -race to list when it is specified for test options by @shibayu36 in https://github.com/Songmu/gotesplit/pull/26
 
